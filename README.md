@@ -1,16 +1,6 @@
 # studi_kasus_2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1697539126](https://github.com/aldi047/Flutter-List-Makanan/assets/54885340/050fa063-5657-4378-97a8-8b0da2c7a993)
+![Screenshot_1697539131](https://github.com/aldi047/Flutter-List-Makanan/assets/54885340/4a462d88-5705-4248-ae51-23e88559e23e)
+![Screenshot_1697539138](https://github.com/aldi047/Flutter-List-Makanan/assets/54885340/530a0e58-5004-457d-8931-b87125fc335e)
+![Screenshot_1697539163](https://github.com/aldi047/Flutter-List-Makanan/assets/54885340/30c0d47e-e61b-466c-a675-b981c0a6b3e9)
